@@ -1,0 +1,63 @@
+http://203.230.112.114:9082/mobile_hiis/login?attribute=loginCheck&id=&pwd=3ae45f507c08e5537bfdb66937dcf076&filler=null&lang=ko&version=3.0.6
+
+http://203.230.112.114:9082/mobile_hiis/sugang?attribute=sugangSave&
+param=53cbe288c0dd9a868e91452d997f77f4b398e8d5cc9fa41acf5e840b53fd8608aca53edb863a09e78dfea98681bacdaefd4d900fac70b294d21561b7a43cb325&lang=ko&lectCd=821422&bunban=01&tryCnt=0
+
+
+112.42  job.uhs.ac.kr | hcec.uhs.ac.kr
+112.67  연결 거부
+112.72  404
+112.75  연결 거부
+112.78  spam.uhs.ac.kr
+112.79  shiis.uhs.ac.kr
+112.80  www.uhs.ac.kr
+112.81  망한 사이트
+112.82  ctl.uhs.ac.kr
+112.83  IBM HTTP SERVER MANAGE SITE
+
+112.85  uhs.ac.kr:53 - dns
+112.87  uhs.ac.kr:53 - dns2 | mail
+112.88  www.hyupsung.ac.kr -> Redirect to 112.109
+112.90  lms.uhs.ac.kr | ilms.uhs.ac.kr
+112.94  iphak.uhs.ac.kr
+
+112.98  ghiis.uhs.ac.kr - 대학원 종정시
+112.99  gradu.uhs.ac.kr
+112.105 연결 거부
+112.107 WebMail Site
+112.108 Apache/2.0.59 (Unix) mod_ssl/2.0.59 OpenSSL/0.9.8f PHP/4.4.7 Server at 203.230.112.108 Port 80
+	404 Not Found
+112.109 huhs.uhs.ac.kr | global.uhs.ac.kr
+112.112 iportal.uhs.ac.kr
+112.113 /privacycenter/index.html Tomcat
+112.114 :9082
+112.115 404
+112.119 college.uhs.ac.kr
+112.120 nf.uhs.ac.kr
+112.142 연결 거부
+112.145 hiis.uhs.ac.kr
+112.146 403
+112.147 breeze.uhs.ac.kr
+112.157 rhiis.uhs.ac.kr
+112.250 login ?
+112.253 ie wapples?
+112.254 연결 거부
+
+113.5   portal.uhs.ac.kr | hsmart.uhs.ac.kr
+113.12  sso.uhs.ac.kr
+113.15  gw.uhs.ac.kr
+113.120 ipp.uhs.ac.kr
+
+114.2   clicker.uhs.ac.kr
+114.3   openlink.proxy.uhs.ac.kr
+114.6   hulins.uhs.ac.kr
+
+
+115.21  uwlms.uhs.ac.kr
+115.211 bus.uhs.ac.kr
+
+
+183.111.174.14 iacf.uhs.ac.kr
+
+
+
